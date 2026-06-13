@@ -26,7 +26,7 @@ A simple Bash script that installs Laravel and all required dependencies on a fr
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/laravel-installer.git
+git clone https://github.com/lukashilverda/laravel-installer.git
 cd laravel-installer
 ```
 
