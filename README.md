@@ -33,13 +33,13 @@ cd laravel-installer
 Make the script executable:
 
 ```bash
-chmod +x install-laravel.sh
+chmod +x install_laravel.sh
 ```
 
 Run the installer:
 
 ```bash
-./install-laravel.sh
+./install_laravel.sh
 ```
 
 ---
